@@ -1,5 +1,9 @@
-### Hi there 👋
 
+
+
+<p align="center"><img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"></p>
+
+<h4 align="center"><samp>Olá, seja muito bem vindo ao meu perfil do GitHub.</samp></h4>
 <!--
 **naassom-pedro/naassom-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
