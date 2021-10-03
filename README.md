@@ -6,8 +6,12 @@
 <br>
 
 <h2 align="center">Onde me encontrar</h2>
-<p align="center"> 
-  <img href="SEULINKEDIN" src="https://img.shields.io/badge/LinkedIn-166798?style=for-the-badge&logo=linkedin&logoColor=white"> <img href="SEU GMAIL" src="https://img.shields.io/badge/Gmail-166798?style=for-the-badge&logo=gmail&logoColor=white"> <img href="SEUTWITTER" src="https://img.shields.io/badge/Twitter-166798?style=for-the-badge&logo=twitter&logoColor=white"> <img href="SEUDISCORD" src="https://img.shields.io/badge/Discord-166798?style=for-the-badge&logo=discord&logoColor=white"> <img href="SEU TELEGRAM" src="https://img.shields.io/badge/Telegram-166798?style=for-the-badge&logo=telegram&logoColor=white"></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/naassom-pedro-4aa00995/"><img src="https://img.shields.io/badge/LinkedIn-166798?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:naassom7@gmail.com"><img src="https://img.shields.io/badge/Gmail-166798?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img href="SEUTWITTER" src="https://img.shields.io/badge/Twitter-166798?style=for-the-badge&logo=twitter&logoColor=white">
+<img href="SEUDISCORD" src="https://img.shields.io/badge/Discord-166798?style=for-the-badge&logo=discord&logoColor=white">
+<img href="SEU TELEGRAM" src="https://img.shields.io/badge/Telegram-166798?style=for-the-badge&logo=telegram&logoColor=white"></p>
 <br>
  
 <h2 align="center">O que estou usando e estudando</h2>
